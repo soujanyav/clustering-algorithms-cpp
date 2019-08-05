@@ -1,0 +1,9 @@
+1. strehl1
+2. strehl2
+3. cham1
+4. cham2
+5. cham3
+6. cham4
+7. blocks, sampleblocks
+8. semicircles
+
